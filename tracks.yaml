@@ -1,4 +1,4 @@
-release_repo_url: git@github.com:revyos-ros/py_trees_ros_interfaces-release
+release_repo_url: git@github.com:revyos-ros/py_trees_ros_interfaces-release.git
 tracks:
   humble:
     actions:
