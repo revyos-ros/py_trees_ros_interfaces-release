@@ -1,0 +1,10 @@
+ros-jazzy-py-trees-ros-interfaces (2.1.1-1bookworm) bookworm; urgency=high
+
+  * Update minimum CMake version
+  * [readme] fix alignment in columns
+  * [readme] update release links
+  * Contributors: Daniel Stonier, Sebastian Castro
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sat, 11 Jan 2025 00:00:00 -0000
+
+
